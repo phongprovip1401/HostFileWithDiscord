@@ -2,6 +2,7 @@
 
 - Project web cho phép người dùng tải lên tệp, lưu trữ bằng cách gửi lên Discord để lấy CDN và custom URL rồi trả về cho người dùng.
 - Project được dùng để đáp ứng nhu cầu của cá nhân mình, open source với mục đích cho mọi người tham khảo. Không hỗ trợ setup
+- Demo: [youtube](https://youtu.be/lbB_iVLSvYM)
 
 ---
 
